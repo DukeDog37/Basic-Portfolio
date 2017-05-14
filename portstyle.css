@@ -34,6 +34,7 @@
    font-size: 24px;
    color: white;
    font-style: bold;
+   text-align: center;
    top: -75px;
    margin: 0px;
  }
@@ -117,8 +118,7 @@ hr{
    
 }
 .PortImages{
-   position: relative;
-   margin: 10px;
+   margin-left: 75px;
    float: left;
       
 }

@@ -32,6 +32,8 @@
    line-height: 28px;
    padding-left: 15px;
    padding-right: 15px;
+   font-size: 24px;
+   color: #cccccc;
  }
 hr{
    color: #cccccc;
@@ -123,7 +125,7 @@ hr{
    margin-left: 20px;
    width: 90%;
    height: 50px;
-   font-size: 24px;
+   font-size: 22px;
 }
 
 .txtEmail{
@@ -137,7 +139,7 @@ hr{
    margin-left: 20px;
    width: 90%;
    height: 50px;
-   font-size: 24px;
+   font-size: 22px;
 }
 
 .txtMessage{
@@ -150,8 +152,8 @@ hr{
    box-sizing: border-box;
    margin-left: 20px;
    width: 90%;
-   height: 50px;
-   font-size: 24px;
+   font-size: 22px;
+   text-align: left;
 }
 
 .btnSubmit{
